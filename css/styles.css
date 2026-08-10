@@ -332,6 +332,10 @@ ol {
   opacity: 0.95;
 }
 
+.hero-stack img.icon-invert {
+  filter: invert(1);
+}
+
 .hero-stack span {
   white-space: nowrap;
 }
